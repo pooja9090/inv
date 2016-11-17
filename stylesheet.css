@@ -1,0 +1,23 @@
+body{
+	background-color:#afccb2;
+	font-family:Times new roman;
+	font-size: 18px;
+	color: #40293d;
+	  } 
+.pooja{
+	margin-left:30px;
+}
+a:hover{
+background-color: gray;
+text-decoration:gray;
+}
+p:hover{
+	background-color:#dbc7d9;
+	}
+.borderdots{
+	border:5px dotted purple;
+	background-clip: padding-box;
+	}
+
+		
+
